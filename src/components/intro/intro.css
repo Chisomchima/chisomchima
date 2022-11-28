@@ -1,0 +1,76 @@
+.intro {
+  background-color: whitesmoke;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.intro .left {
+  -webkit-box-flex: 0.5;
+      -ms-flex: 0.5;
+          flex: 0.5;
+  overflow: hidden;
+}
+
+.intro .left .imgContainer {
+  width: 600px;
+  height: 600px;
+  background-color: #363434;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.intro .left .imgContainer img {
+  width: 100%;
+  height: 80%;
+}
+
+.intro .right {
+  -webkit-box-flex: 0.5;
+      -ms-flex: 0.5;
+          flex: 0.5;
+  position: relative;
+}
+
+.intro .right .wrapper {
+  width: 100%;
+  height: 100%;
+  padding-left: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.intro .right .wrapper h1 {
+  font-size: 50px;
+  margin: 10px 0;
+}
+
+.intro .right .wrapper h2 {
+  font-size: 35px;
+}
+
+.intro .right .wrapper h3 {
+  font-size: 30px;
+}
+
+.intro .right .wrapper .icon {
+  padding-top: 50px;
+  font-weight: 500;
+}
+/*# sourceMappingURL=intro.css.map */
