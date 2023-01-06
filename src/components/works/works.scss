@@ -13,16 +13,25 @@
     cursor: pointer;
 
     @include mobile {
-      display: none;
+      // display: none;
+      height: 20px;
     }
 
     &.left {
       left: 100px;
       transform: rotateY(180deg);
+      @include mobile {
+        left: 15px;
+        // transform: rotateY(180deg);
+      }
     }
 
     &.right {
       right: 100px;
+      @include mobile {
+        right: 15px;
+        
+      }
     }
   }
 
@@ -33,11 +42,11 @@
     left: 0;
     transition: all 1s ease-out;
 
-    @include mobile {
-      height: 100vh;
-      flex-direction: column;
-      justify-content: center;
-    }
+    // @include mobile {
+    //   height: 100vh;
+    //   flex-direction: column;
+    //   justify-content: center;
+    // }
 
     .container {
       width: 100vw;
@@ -73,7 +82,15 @@
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-
+            a {
+              color: rgb(57, 50, 50);
+              span {
+                font-size: 12px;
+                font-weight: 600;
+                text-decoration: underline;
+                cursor: pointer;
+              }
+            }
             .imgContainer {
               width: 40px;
               height: 40px;
@@ -99,21 +116,15 @@
             h2 {
               font-size: 20px;
 
-              @include mobile{
+              @include mobile {
                 font-size: 13px;
               }
             }
             p {
               font-size: 13px;
-              @include mobile{
+              @include mobile {
                 display: none;
               }
-            }
-            span {
-              font-size: 12px;
-              font-weight: 600;
-              text-decoration: underline;
-              cursor: pointer;
             }
           }
         }

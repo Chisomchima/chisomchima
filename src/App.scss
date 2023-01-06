@@ -5,14 +5,13 @@
 .section{ 
     width: 100%;
     height: calc(100vh - 100px);
-    background-color: aqua;
     position: relative;
     top: 100px;
-    scroll-snap-type: y mandatory;
-    scrollbar-width: none;
-    &::-webkit-scrollbar{
-        display: none;
-    }
+    // scroll-snap-type: y mandatory;
+    // scrollbar-width: none;
+    // &::-webkit-scrollbar{
+    //     display: none;
+    // }
     scroll-behavior: smooth;
 
     >*{

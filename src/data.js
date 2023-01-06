@@ -1,9 +1,10 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
+      title: "MSDAT",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://msdat.fmohconnect.gov.ng/static/img/About-Dashboard-image.png",
+      link: 'https://msdat.fmohconnect.gov.ng/',
     },
     {
       id: 2,
@@ -65,8 +66,9 @@ export const featuredPortfolio = [
     },
     {
       id: 6,
-      title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+      title: "MSDAT",
+      img: "https://msdat.fmohconnect.gov.ng/static/img/About-Dashboard-image.png",
+      link: 'https://msdat.fmohconnect.gov.ng/'
     },
   ];
   
@@ -112,48 +114,49 @@ export const featuredPortfolio = [
   export const designPortfolio = [
     {
       id: 1,
-      title: "Design Social Media App",
+      title: "ReactJs",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png",
     },
     {
       id: 2,
-      title: "Design Rampa UI Design",
+      title: "VueJs",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://segwitz.com/wp-content/uploads/2021/06/vuejs-development-malaysia.jpeg",
     },
     {
       id: 3,
-      title: "Design E-commerce Web Design",
+      title: "NodeJs",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
     },
     {
       id: 4,
-      title: "Design Relax Mobile App",
+      title: "ExpressJs",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png",
     },
     {
       id: 5,
-      title: "Design Keser Web Design",
+      title: "MongoDb",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
     },
     {
       id: 6,
-      title: "Design Banking App",
+      title: "SQL",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://www.dataquest.io/wp-content/uploads/2021/11/why-sql-consumes-so-much-memory-header.webp",
     },
   ];
   
   export const contentPortfolio = [
     {
       id: 1,
-      title: "Content Social Media App",
+      title: "IMPORTANT AWS SERVICES YOU SHOULD KNOW",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://miro.medium.com/max/720/1*eQ2pAFR9G4dRgMHRgwWAtQ.webp",
+        link: 'https://medium.com/@chimachisom360/important-aws-services-you-should-know-c2736efe1ee2'
     },
     {
       id: 2,

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import PortfolioList from "../portfolioList/PortfolioList";
+import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 import "./portfolio.scss";
 import {
   featuredPortfolio,
@@ -14,24 +15,24 @@ export default function Portfolio() {
   const [data, setData] = useState([]);
   const list = [
     {
+      id: "design",
+      title: "Stack",
+    },
+    {
       id: "featured",
-      title: "Featured",
+      title: "Contributions",
     },
     {
       id: "web",
-      title: "Web App",
+      title: "Web Apps",
     },
     {
       id: "mobile",
-      title: "Mobile App",
-    },
-    {
-      id: "design",
-      title: "Design",
+      title: "Mobile Apps",
     },
     {
       id: "content",
-      title: "Content",
+      title: "Blogs",
     },
   ];
 
@@ -73,10 +74,12 @@ export default function Portfolio() {
       <div className="container">
         {data.map((d) => (
           <div className="item">
-            <img
+           <a href={d?.link}>
+           <img
               src={d.img}
               alt=""
             />
+           </a> 
             <h3>{d.title}</h3>
           </div>
         ))}

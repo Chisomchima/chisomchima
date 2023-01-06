@@ -3,7 +3,8 @@
     background-color: black;
     color: whitesmoke;
     display: flex;
-
+    align-items: center;
+    justify-content: center;
     @include mobile{
         flex-direction: column;
         align-items: center;
@@ -12,6 +13,10 @@
     .left{
         flex:0.5;
         overflow: hidden;
+        @include mobile{
+            // align-items: flex-start;
+            display: none;
+        }
         
         .imgContainer{
             width: 600px;
@@ -23,8 +28,9 @@
             justify-content: center;
 
             @include mobile{
-                align-items: flex-start;
-              }
+                // align-items: flex-start;
+                display: none;
+            }
 
             img{
                 width: 100%;
@@ -53,6 +59,7 @@
             @include mobile{
                 padding-left: 0;
                 align-items: center;
+
               }
         
 
@@ -62,7 +69,7 @@
 
                 @include mobile{
                     font-size: 40px;
-                  }
+                }
             }
             h2{
                 font-size: 25px;

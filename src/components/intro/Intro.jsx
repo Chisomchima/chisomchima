@@ -15,7 +15,7 @@ export default function Intro() {
             showCursor: true,
             backDelay: 1500,
             backSpeed:60,
-            strings: ['Software Development', 'Technical Writing', 'Programming'],
+            strings: ['Software Development', 'Frontend', 'Backend', 'Technical Writing', 'Programming'],
         });
     }, []);
 
@@ -31,11 +31,11 @@ export default function Intro() {
             <div className='right'>
                     <div className='wrapper'>
                         <h2>Hi there, I'm</h2>
-                        <h1>Chisom Chima</h1>
+                        <h1>Chisom, Chima.</h1>
                         <h3>I Love <span ref={textRef}></span></h3>
-                        <a href="#portfolio" className='icon'>
+                        {/* <a href="#portfolio" className='icon'>
                             <MdOutlineKeyboardArrowDown />
-                        </a>
+                        </a> */}
                     </div>
                     
             </div>
