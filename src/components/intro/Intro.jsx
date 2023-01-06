@@ -32,7 +32,7 @@ export default function Intro() {
                     <div className='wrapper'>
                         <h2>Hi there, I'm</h2>
                         <h1>Chisom Chima</h1>
-                        <h3>I Love<span ref={textRef}></span></h3>
+                        <h3>I Love <span ref={textRef}></span></h3>
                         <a href="#portfolio" className='icon'>
                             <MdOutlineKeyboardArrowDown />
                         </a>
