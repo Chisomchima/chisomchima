@@ -26,10 +26,10 @@ export default function Portfolio() {
       id: "web",
       title: "Web Apps",
     },
-    {
-      id: "mobile",
-      title: "Mobile Apps",
-    },
+    // {
+    //   id: "mobile",
+    //   title: "Mobile Apps",
+    // },
     {
       id: "content",
       title: "Blogs",

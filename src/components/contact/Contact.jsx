@@ -11,7 +11,7 @@ export default function Contact() {
   };
   return (
     <div className="contact-container">
-      <h1>LET'S CONNECT</h1>
+      <h1>Let's Connect</h1>
       <div className="contact" id="contact">
         <div className="left">
           <img src="images/handshake.png" alt="" />

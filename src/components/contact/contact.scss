@@ -1,11 +1,12 @@
 @import "../../global.scss";
 
 .contact-container {
+  padding-top: 20px;
   background-color: black;
   color: whitesmoke;
   h1 {
     text-align: center;
-    margin-top: 10px;
+    font-size: 50px;
   }
 .contact {
   display: flex;

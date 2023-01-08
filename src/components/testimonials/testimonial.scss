@@ -1,6 +1,7 @@
 @import "../../global.scss";
 
 .testimonials {
+  padding-top: 20px;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -93,6 +94,7 @@
         padding: 10px;
         border-radius: 10px;
         background-color: rgb(250, 244, 245);
+        font-size: 12px;
 
         @include mobile{
           font-size: 12px;
