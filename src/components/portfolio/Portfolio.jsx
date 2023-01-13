@@ -22,10 +22,10 @@ export default function Portfolio() {
       id: "featured",
       title: "Contributions",
     },
-    {
-      id: "web",
-      title: "Web Apps",
-    },
+    // {
+    //   id: "web",
+    //   title: "Web Apps",
+    // },
     // {
     //   id: "mobile",
     //   title: "Mobile Apps",
@@ -74,7 +74,7 @@ export default function Portfolio() {
       <div className="container">
         {data.map((d) => (
           <div className="item">
-           <a href={d?.link}>
+           <a href={d?.link} target="_blank">
            <img
               src={d.img}
               alt=""

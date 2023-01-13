@@ -27,10 +27,10 @@ export default function Contact() {
             <span>chisomchima370@gmail.com</span>
           </div>
           <div className="item-container">
-          <a href="https://linkedin.com/in/chima-chisom-03685a195"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH1gaG9wl4n7dYyzxcMOESd4jxqvz0LmyNA&usqp=CAU" className="left" alt="" /></a>
-          <a href="https://github.com/Chisomchima"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" className="left" alt="" /></a>
-          <a href="https://medium.com/@chimachisom360"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDX8eFWmIqiu0qQ-44fwfY5WwrLMgmH0U3Rd_yviOoeGoLCX9FGqvg1HDoij1wx62CVMg&usqp=CAU" className="left" alt="" /></a>
-          <a href="https://twitter.com/chimachisom1"><img src="https://www.pngitem.com/pimgs/m/3-38684_twitter-logo-png-transparent-background-transparent-background-twitter.png" className="left" alt="" /></a>
+          <a href="https://linkedin.com/in/chima-chisom-03685a195" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH1gaG9wl4n7dYyzxcMOESd4jxqvz0LmyNA&usqp=CAU" className="left" alt="" /></a>
+          <a href="https://github.com/Chisomchima" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" className="left" alt="" /></a>
+          <a href="https://medium.com/@chimachisom360" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDX8eFWmIqiu0qQ-44fwfY5WwrLMgmH0U3Rd_yviOoeGoLCX9FGqvg1HDoij1wx62CVMg&usqp=CAU" className="left" alt="" /></a>
+          <a href="https://twitter.com/chimachisom1" target="_blank"><img src="https://www.pngitem.com/pimgs/m/3-38684_twitter-logo-png-transparent-background-transparent-background-twitter.png" className="left" alt="" /></a>
           </div>
         </div>
         {/* <div className="right">
