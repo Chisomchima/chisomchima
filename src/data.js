@@ -8,21 +8,23 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: "Rave Booking",
+      link:"https://ravebooking.netlify.app",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://www.colliers.com/-/media/images/colliers/asia/philippines/quarterly-report/q42021_hero_image_hotel.ashx?bid=68389c77a1144bdbad863a5a5607d7b7&w=1040&hash=15E87483F4A629E4F45FD1737BB73EF3",
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "E-commerce Granvalor",
+      link: 'http://grandvalor-fashion.vercel.app/',
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "https://firebasestorage.googleapis.com/v0/b/grandvaloradmin.appspot.com/o/1673271899886pexels-wallace-chuck-3261069.jpg?alt=media&token=1d15dd3e-af37-4b6f-b8df-bb2d56c54edb",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
+      title: "HPPDM",
       img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+        "https://mapping.fmohconnect.gov.ng/img/landing%20page.7f31752b.png",
     },
     {
       id: 5,
@@ -152,17 +154,17 @@ export const featuredPortfolio = [
   
   export const contentPortfolio = [
     {
-      id: 1,
-      title: "IMPORTANT AWS SERVICES YOU SHOULD KNOW",
+      id: 2,
+      title: "Aws Services",
       img:
         "https://miro.medium.com/max/720/1*eQ2pAFR9G4dRgMHRgwWAtQ.webp",
         link: 'https://medium.com/@chimachisom360/important-aws-services-you-should-know-c2736efe1ee2'
     },
     {
-      id: 2,
-      title: "Content Rampa UI Design",
+      id: 1,
+      title: "Become a web developer ",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://miro.medium.com/max/1400/0*ylUx_NwQteryYRp2",
     },
     {
       id: 3,
