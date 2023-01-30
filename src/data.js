@@ -162,21 +162,24 @@ export const featuredPortfolio = [
     },
     {
       id: 1,
-      title: "Become a web developer ",
+      title: "web dev Roadmap",
       img:
         "https://miro.medium.com/max/1400/0*ylUx_NwQteryYRp2",
+        link: 'https://medium.com/@chimachisom360/how-to-become-a-web-developer-without-a-degree-in-2023-358c102d1aa8'
     },
     {
       id: 3,
-      title: "Content E-commerce Web Design",
+      title: "Async JavaScript",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://miro.medium.com/max/720/0*43Tu5km4qOtYGVjw",
+        link: "https://medium.com/@chimachisom360/understanding-asynchronous-javascript-28c0dea873ea"
     },
     {
       id: 4,
-      title: "Content Relax Mobile App",
+      title: "ChatGPT and AI",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://miro.medium.com/max/720/0*4TuRN4iEFTq4GEPx",
+        link:"https://medium.com/@chimachisom360/5-reasons-why-chatgpt-will-not-take-your-job-e1f24e750529"
     },
     {
       id: 5,
