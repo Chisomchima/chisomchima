@@ -18,4 +18,4 @@ Here are some of the projects I've worked on recently:
 
 ## 📫 Contact
 
-You can reach me via email at chisom@example.com. Let's work together to build something great!
+You can reach me via email at chimachisom360@gmail.com. Let's work together to build something great!
