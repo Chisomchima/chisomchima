@@ -4,7 +4,7 @@ I'm a web developer who loves building dynamic and engaging web applications. I'
 
 ## 🛠️ Skills
 
-- **Front-end:** HTML, CSS, JavaScript, Vue.js, React.js
+- **Front-end:** HTML, CSS, typeScript, JavaScript, Vue.js, React.js
 - **Back-end:** Node.js, Express.js
 - **Databases:** MongoDB, SQL
 
