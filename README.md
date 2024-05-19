@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://medium.com/@chimachisom360](https://medium.com/@chimachisom360)
-
-- 📫 How to reach me **https://chisomchima.netlify.app/**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFcOhwTvTo/2T1_5Lb4Pa1CCmqcPBCJQQ/edit](https://www.canva.com/design/DAFcOhwTvTo/2T1_5Lb4Pa1CCmqcPBCJQQ/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thechisomchima" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thechisomchima" height="30" width="40" /></a>
